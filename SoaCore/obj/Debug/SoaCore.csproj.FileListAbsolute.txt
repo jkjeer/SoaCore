@@ -1,0 +1,8 @@
+C:\Users\jpjenkin\source\Workspaces\SoaCore\SoaCore\bin\Debug\SoaCore.dll
+C:\Users\jpjenkin\source\Workspaces\SoaCore\SoaCore\bin\Debug\SoaCore.pdb
+C:\Users\jpjenkin\source\Workspaces\SoaCore\SoaCore\bin\Debug\NLog.dll
+C:\Users\jpjenkin\source\Workspaces\SoaCore\SoaCore\bin\Debug\NLog.config
+C:\Users\jpjenkin\source\Workspaces\SoaCore\SoaCore\obj\Debug\SoaCore.csproj.CoreCompileInputs.cache
+C:\Users\jpjenkin\source\Workspaces\SoaCore\SoaCore\obj\Debug\SoaCore.csproj.CopyComplete
+C:\Users\jpjenkin\source\Workspaces\SoaCore\SoaCore\obj\Debug\SoaCore.dll
+C:\Users\jpjenkin\source\Workspaces\SoaCore\SoaCore\obj\Debug\SoaCore.pdb
