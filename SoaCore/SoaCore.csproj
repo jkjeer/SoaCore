@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SoaCore</RootNamespace>
     <AssemblyName>SoaCore</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>
     <SccLocalPath>SAK</SccLocalPath>
@@ -75,10 +75,10 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="NLog.Config">
-      <Version>4.6.3</Version>
+      <Version>4.7.12</Version>
     </PackageReference>
     <PackageReference Include="NLog.Schema">
-      <Version>4.6.3</Version>
+      <Version>4.7.12</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
